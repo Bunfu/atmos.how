@@ -1,22 +1,11 @@
-.. atmos how-to documentation master file, created by
-   sphinx-quickstart on Tue Sep 12 09:47:09 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Atmos How-To Docs
+=================
 
-Welcome to atmos how-to's documentation!
-========================================
-
-Contents:
+In this documentation, you will find a collection of 'how-to's.  
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   staking
+   resources
